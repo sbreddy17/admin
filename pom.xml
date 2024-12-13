@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.drucare</groupId>
-	<artifactId>billing</artifactId>
+	<artifactId>admin</artifactId>
 	<version>0.0.1</version>
 	<name>drucare-project-admin</name>
 	<description>java project</description>
