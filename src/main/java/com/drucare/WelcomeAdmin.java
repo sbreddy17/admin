@@ -8,7 +8,7 @@ public class WelcomeAdmin {
 	
 	@GetMapping
 	public String welcome() {
-		return "welcome admin version ONE";
+		return "welcome admin version ONE (welcome to drucare port 9090)";
 	}
 
 }
